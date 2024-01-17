@@ -48,6 +48,14 @@
 * Altium
 * Google Home
 
+## PCB design
+
+![pcb](https://github.com/LasithaAmarasinghe/Smarty-Plug/assets/106037441/c4067350-08f6-48c0-a987-197e09814b93)
+
+## Solidworks Design
+
+![solidworks](https://github.com/LasithaAmarasinghe/Smarty-Plug/assets/106037441/df30b340-38dd-4b4b-93a3-ee9717be19d6)
+
 ## Team
 
 ![image](https://github.com/LasithaAmarasinghe/Smarty-Plug/assets/106037441/1e53f2e7-6078-4a04-b4ee-c26480316bee)
