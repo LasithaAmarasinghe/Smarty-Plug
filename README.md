@@ -52,6 +52,10 @@
 
 ![pcb](https://github.com/LasithaAmarasinghe/Smarty-Plug/assets/106037441/c4067350-08f6-48c0-a987-197e09814b93)
 
+## PCB 
+
+![PCB](https://github.com/LasithaAmarasinghe/Smarty-Plug/assets/106037441/6e54b8a1-ab34-4b89-92c8-6ff2f9dd6a27)
+
 ## Solidworks Design
 
 ![solidworks](https://github.com/LasithaAmarasinghe/Smarty-Plug/assets/106037441/df30b340-38dd-4b4b-93a3-ee9717be19d6)
