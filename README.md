@@ -29,3 +29,19 @@
 * Convenient Home Automation
 * Device Battery Health
 * Remote Access & Monitoring
+
+## Hardware Specifications
+
+* ESP8266
+* Atmega328
+* USB Ports
+* Relays
+* Push Button Switches
+* Power Step Down Module
+
+## Software Specifications
+
+* Arduino IDE
+* Solid Works
+* Altium
+* Google Home
