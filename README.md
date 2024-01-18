@@ -34,8 +34,8 @@
 
 ## Hardware Specifications
 
-* ESP8266
-* Atmega328
+* [ESP8266](https://github.com/LasithaAmarasinghe/Smarty-Plug/blob/main/Data%20sheets/ESP8266.PDF)
+* [Atmega328](https://github.com/LasithaAmarasinghe/Smarty-Plug/blob/main/Data%20sheets/ATMEGA328.PDF)
 * USB Ports
 * Relays
 * Push Button Switches
