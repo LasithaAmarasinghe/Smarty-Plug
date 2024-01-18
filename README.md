@@ -1,5 +1,5 @@
 # Smarty-Plug
-* Smarty Plug is an IoT-integrated smart extension cord powered by ESP8266 & Atmega328.
+* Smarty Plug is an IoT-integrated smart extension cord powered by [Atmega328](https://github.com/LasithaAmarasinghe/Smarty-Plug/blob/main/Data%20sheets/ATMEGA328.PDF) & [ESP8266](https://github.com/LasithaAmarasinghe/Smarty-Plug/blob/main/Data%20sheets/ESP8266.PDF).
 * This is developed for the semester 2 project under EN 1190: Engineering Design Project.
   
 ![20230805_180307](https://github.com/LasithaAmarasinghe/Smarty-Plug/assets/106037441/18de8a2d-b9eb-4888-816d-3e4946caaf79)
@@ -7,9 +7,9 @@
 ## Features
  
 * [Voice Controlling](https://github.com/LasithaAmarasinghe/Smarty-Plug/blob/main/Voice%20Control.mp4) - supports Google Assistant and Amazon Alexa
-* Controlling by Mobile Phone - using Google Home 
+* [Controlling by Mobile Phone](https://github.com/LasithaAmarasinghe/Smarty-Plug/blob/main/Remote%20control%2C%20Google%20home.mp4) - using Google Home 
 * [USB Adaptive Charging](https://github.com/LasithaAmarasinghe/Smarty-Plug/blob/main/USB%20charging.mp4)
-* Controlling by Remote Controller
+* [Controlling by Remote Controller](https://github.com/LasithaAmarasinghe/Smarty-Plug/blob/main/Remote%20control%2C%20Google%20home.mp4)
 * Scheduling - by connecting to Google Calendar
 
 ## What made us select this as our project?
