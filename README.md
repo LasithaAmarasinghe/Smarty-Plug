@@ -48,7 +48,7 @@
 * Altium
 * Google Home
 
-## PCB design
+## PCB Design
 
 ![pcb](https://github.com/LasithaAmarasinghe/Smarty-Plug/assets/106037441/c4067350-08f6-48c0-a987-197e09814b93)
 
@@ -63,3 +63,5 @@
 ## Team
 
 ![image](https://github.com/LasithaAmarasinghe/Smarty-Plug/assets/106037441/1e53f2e7-6078-4a04-b4ee-c26480316bee)
+
+## For More Information - [Project Report](https://github.com/LasithaAmarasinghe/Smarty-Plug/blob/main/Project%20Report.pdf)
