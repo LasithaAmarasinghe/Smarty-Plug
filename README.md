@@ -6,11 +6,11 @@
 
 ## Features
  
-* Voice Controlling - supports Google Assistant and Amazon Alexa
+* [Voice Controlling](https://github.com/LasithaAmarasinghe/Smarty-Plug/blob/main/Voice%20Control.mp4) - supports Google Assistant and Amazon Alexa
 * Controlling by Mobile Phone - using Google Home 
-* Scheduling - by connecting to Google Calendar
-* USB Adaptive Charging
+* [USB Adaptive Charging](https://github.com/LasithaAmarasinghe/Smarty-Plug/blob/main/USB%20charging.mp4)
 * Controlling by Remote Controller
+* Scheduling - by connecting to Google Calendar
 
 ## What made us select this as our project?
 
