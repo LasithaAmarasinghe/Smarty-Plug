@@ -14,14 +14,14 @@
 
 ## What made us select this as our project?
 
-* We chose to develop this smart extension cord due to its ability to solve everyday challenges in managing electronic devices efficiently and safely.
+* We chose to develop this smart extension cord because it solves everyday challenges in managing electronic devices efficiently and safely.
 * This provides practical solutions to energy wastage and device control. This project aligns with our goal of enhancing user convenience, promoting energy conservation, and integrating emerging IoT technologies for a more sustainable future.
 
 ## Areas of Opportunity
 
 * Remote Troubleshooting - Including diagnostic tools that help users troubleshoot issues remotely could enhance user experience and minimize technical support needs.
 * Third-Party Integrations - Partnering with other smart home device manufacturers to create integrated solutions that can work together seamlessly.
-* Energy Usage Analytics - Including a feature to track and display energy usage data for devices can empower users to make informed decisions about their energy consumption.
+* Energy Usage Analytics - Including a feature to track and display device energy usage data can empower users to make informed decisions about their energy consumption.
 
 ## Why "Smarty Plug"?
 
