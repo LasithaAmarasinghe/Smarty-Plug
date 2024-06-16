@@ -69,4 +69,8 @@
 
 ![image](https://github.com/LasithaAmarasinghe/Smarty-Plug/assets/106037441/1e53f2e7-6078-4a04-b4ee-c26480316bee)
 
+## License
+ 
+ * This project is licensed under the MIT License. See the [LICENSE](MIT-LICENSE.txt) file for details.
+
 ## For More Information - [Project Report](https://github.com/LasithaAmarasinghe/Smarty-Plug/blob/main/Project%20Report.pdf)
