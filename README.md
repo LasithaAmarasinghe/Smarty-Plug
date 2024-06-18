@@ -67,7 +67,8 @@
 
 ## Team
 
-![image](https://github.com/LasithaAmarasinghe/Smarty-Plug/assets/106037441/1e53f2e7-6078-4a04-b4ee-c26480316bee)
+![image](https://github.com/LasithaAmarasinghe/Smarty-Plug/assets/106037441/43b7ec8f-bb90-44a0-9b2e-6d6b2e26eded)
+![image](https://github.com/LasithaAmarasinghe/Smarty-Plug/assets/106037441/9e15a8b8-1c72-4421-833e-c6e7347d39e1)
 
 ## License
  
